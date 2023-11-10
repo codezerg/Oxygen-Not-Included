@@ -34,7 +34,7 @@ Conveyor Overlay:
 
 Automation Overlay:
 
-![Conveyor!](conveyor.png)
+![Automation!](automation.png)
 
 *Critter Count Sensor* is set to *Count Eggs* below 10
 
