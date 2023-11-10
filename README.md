@@ -25,6 +25,8 @@ is achieved by pumping water into a small, enclosed space with a liquid vent and
 
 Pokeshell farm
 
+Pip farm
+
 Wild farming
 
 Early Steel
