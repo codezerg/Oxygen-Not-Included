@@ -25,14 +25,16 @@ is achieved by pumping water into a small, enclosed space with a liquid vent and
 
 Early Steel
 
-Industrial Brick
-
-
 Cooling
 
+Industrial Brick
 
 ## Late Game
 
 Rocketry
+
+Petroleum Boiler
+
+Sour Gas Boiler
 
 Achievements
