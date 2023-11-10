@@ -23,6 +23,10 @@ involves breeding Glossy Drekko in a hydrogen-rich environment and feeding them 
 [Infinite water storage](/Infinite-Water-Storage/) 
 is achieved by pumping water into a small, enclosed space with a liquid vent and a liquid lock, allowing for the storage of an unlimited amount of water in a single tile.
 
+Pokeshell farm
+
+Wild farming
+
 Early Steel
 
 Cooling
